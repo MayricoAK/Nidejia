@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "De Flecce",
+      "slug": "de-flece",
+      "image": "/images/deals-1.svg",
+      "price": "47,298",
+      "rating": 4.5,
+      "wide": 529,
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "id": 2,
+      "title": "Party Every",
+      "slug": "party-every",
+      "image": "/images/deals-2.svg",
+      "price": "18,983",
+      "rating": 4.5,
+      "wide": 529,
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "id": 3,
+      "title": "Brown Hall",
+      "slug": "brown-hall",
+      "image": "/images/deals-3.svg",
+      "price": "84,209",
+      "rating": 4.5,
+      "wide": 529,
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "id": 4,
+      "title": "Mini Max",
+      "slug": "mini-max",
+      "image": "/images/deals-4.svg",
+      "price": "14,221",
+      "rating": 4.5,
+      "wide": 529,
+      "capacity": 3,
+      "wifi": 10
+    }
+  ]
+}

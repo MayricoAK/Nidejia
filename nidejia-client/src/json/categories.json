@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "icon": "/icons/microscope.svg",
+      "title": "Star Hills",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/buildings.svg",
+      "title": "Apartment",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/house-2 2.svg",
+      "title": "Nearby City",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/building-4.svg",
+      "title": "Landed House",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/airplane.svg",
+      "title": "Airport",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/cup.svg",
+      "title": "Awards",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/sun-fog.svg",
+      "title": "Sunset",
+      "subtitle": "18,394"
+    },
+    {
+      "icon": "/icons/element-equal.svg",
+      "title": "Others",
+      "subtitle": "18,394"
+    }
+  ]
+}

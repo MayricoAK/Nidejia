@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "image": "/images/image-city-center-1.svg",
+      "title": "Courtyard Marriot Shanghai",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "image": "/images/image-city-center-2.svg",
+      "title": "Tedjamudita Buxiang Parahyangan",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "image": "/images/image-city-center-3.svg",
+      "title": "Napoleon Deck Club",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "image": "/images/image-city-center-4.svg",
+      "title": "Courtyard Marriot Shanghai",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "image": "/images/image-city-center-5.svg",
+      "title": "Napoleon Deck Club",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "image": "/images/image-city-center-6.svg",
+      "title": "Courtyard Marriot Shanghai",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    },
+    {
+      "image": "/images/image-city-center-7.svg",
+      "title": "Napoleon Deck Club",
+      "location": "Shanghai, China",
+      "wide": "18,209",
+      "capacity": 3,
+      "wifi": 10
+    }
+  ]
+}

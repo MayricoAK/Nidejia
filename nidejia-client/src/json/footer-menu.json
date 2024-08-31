@@ -1,0 +1,70 @@
+{
+  "data": {
+    "solutions": [
+      {
+        "title": "Credit Rewards",
+        "url": "/"
+      },
+      {
+        "title": "P2P Renting",
+        "url": "/"
+      },
+      {
+        "title": "Open for Listing",
+        "url": "/"
+      },
+      {
+        "title": "AI Automation",
+        "url": "/"
+      },
+      {
+        "title": "APIs Developer",
+        "url": "/"
+      }
+    ],
+    "product": [
+      {
+        "title": "Featured House",
+        "url": "/"
+      },
+      {
+        "title": "Browse Categories",
+        "url": "/"
+      },
+      {
+        "title": "Special Awards",
+        "url": "/"
+      },
+      {
+        "title": "Made-In Bandung",
+        "url": "/"
+      },
+      {
+        "title": "Exclusive Style",
+        "url": "/"
+      }
+    ],
+    "company": [
+      {
+        "title": "About Us",
+        "url": "/"
+      },
+      {
+        "title": "Our Investors",
+        "url": "/"
+      },
+      {
+        "title": "Missions 2024",
+        "url": "/"
+      },
+      {
+        "title": "Careers",
+        "url": "/"
+      },
+      {
+        "title": "Media Press",
+        "url": "/"
+      }
+    ]
+  }
+}
