@@ -52,7 +52,7 @@ function BookingSection({ id, slug, price }: BookingSectionProps) {
 
       const res = await checkAvailability(data).unwrap();
       console.log(res);
-      if (res.succes) {
+      if (res.success) {
         router.push(
           `/listing/${slug}/checkout?start_date=${data.start_date}&end_date=${data.end_date}`
         );
@@ -124,7 +124,7 @@ function BookingSection({ id, slug, price }: BookingSectionProps) {
       >
         Book Now
       </Button>
-      <div className="bg-gray-light p-5 rounded-[20px] flex items-center space-x-4">
+      {/* <div className="bg-gray-light p-5 rounded-[20px] flex items-center space-x-4">
         <Image src="/icons/medal-star.svg" alt="icon" height={36} width={36} />
         <div>
           <Title
@@ -133,7 +133,7 @@ function BookingSection({ id, slug, price }: BookingSectionProps) {
             subtitle="BuildWithAngga card is giving you extra priviledge today."
           />
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
