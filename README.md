@@ -29,6 +29,7 @@ Nidejia is a web-based house rental platform. This project leverages a modern te
 - **Modern Design:** Optimized modern and responsive website.
 
 ## Screenshot
+![admin dashboard](https://github.com/user-attachments/assets/5e6d916c-c0b4-4baf-afcc-68056837ec14)
 ![admin listing](https://github.com/user-attachments/assets/c61290fe-a3a6-4146-a6d2-d050f038b4de)
 ![admin add listing](https://github.com/user-attachments/assets/e6b58af1-e6f6-496d-bb11-bb1287c3d25c)
 ![admin edit listing](https://github.com/user-attachments/assets/1bbee6ca-44cc-4cd6-908f-4e7b22fb1490)
